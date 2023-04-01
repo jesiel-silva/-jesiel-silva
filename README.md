@@ -11,7 +11,7 @@
       Hoje minhas competências estão voltadas para o desenvolvimento web front-end, com foco e muitos estudos.
   </p>
   <div>
-    <h2>Meus Hard Skills</h2>
+    <h2>Minhas Hard Skills</h2>
     <img src="https://user-images.githubusercontent.com/90517279/229187351-54fab443-4a57-4571-9309-cd28de66d453.png" width="50">
     <img src="https://user-images.githubusercontent.com/90517279/229187843-6ff065bf-100e-4fdc-b233-5a30aae6b6f4.png" width="50">
     <img src="https://user-images.githubusercontent.com/90517279/229187866-1ba968ce-1cc7-4664-9f46-ae1c29b0414b.png" width="50">
