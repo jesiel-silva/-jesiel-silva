@@ -8,7 +8,7 @@
     Sou desenvolvedor front-end, tenho graduação em analíse e desenvolvimento de sistemas, e amante de tecnologias.    
   </p>
   <p>
-      Hoje minhas competências estão voltadas para o desenvolvimento web front-end, com foco e muitos estudos.
+      Hoje minhas competências estão voltadas para o desenvolvimento web front-end.
   </p>
   <div>
     <h2>Minhas Hard Skills</h2>
