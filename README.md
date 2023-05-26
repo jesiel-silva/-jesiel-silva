@@ -5,7 +5,7 @@
 </div>
 <br>
   <p>
-    Sou desenvolvedor front-end, tenho graduação em analíse e desenvolvimento de sistemas, e amante de tecnologias.    
+    Sou desenvolvedor front-end, e amante de tecnologias.    
   </p>
   <p>
       Hoje minhas competências estão voltadas para o desenvolvimento web front-end.
