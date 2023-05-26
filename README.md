@@ -8,7 +8,7 @@
     Sou desenvolvedor front-end, e amante de tecnologias.    
   </p>
   <p>
-      Hoje minhas competências estão voltadas para o desenvolvimento web front-end.
+      Minhas competências estão voltadas para o desenvolvimento web front-end.
   </p>
   <div>
     <h2>Minhas Hard Skills</h2>
