@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/90517279/229187351-54fab443-4a57-4571-9309-cd28de66d453.png" width="50">
     <img src="https://user-images.githubusercontent.com/90517279/229187843-6ff065bf-100e-4fdc-b233-5a30aae6b6f4.png" width="50">
     <img src="https://user-images.githubusercontent.com/90517279/229187866-1ba968ce-1cc7-4664-9f46-ae1c29b0414b.png" width="50">
-    <img src="https://github.com/jesiel-silva/Sobre-Mim/assets/90517279/c5ac7a04-0faf-4feb-bf46-61b68b019707" width="100"> 
+    <img src="https://github.com/jesiel-silva/Sobre-Mim/assets/90517279/c5ac7a04-0faf-4feb-bf46-61b68b019707" width="100" height="50"> 
  
   </div>
   <br>
