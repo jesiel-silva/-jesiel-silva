@@ -1,4 +1,4 @@
-<h1>Olá, bem vindo ao perfil de Jesiel Silva!</h1>
+<h1>Olá, seja bem-vindo(a) ao meu github</h1>
 <br>
 <div>
   <img src="https://user-images.githubusercontent.com/90517279/229187826-e8c3483c-a2ae-4e7b-b1bc-59de32314245.jpg" width="800">
@@ -8,11 +8,11 @@
     Sou desenvolvedor front-end, e amante de tecnologias.    
   </p>
   <p>
-      Minhas competências estão voltadas para o desenvolvimento web front-end.
+      Minhas competências estão voltadas para o desenvolvimento de aplicações web front-end.
   </p>
   <div>
     <h2>Minhas Hard Skills</h2>
-    <img src="https://github.com/jesiel-silva/Sobre-Mim/assets/90517279/e94b4006-1285-46fa-83cf-f753e51abd94" width="450">    
+    <img src="https://github.com/jesiel-silva/Sobre-Mim/assets/90517279/e94b4006-1285-46fa-83cf-f753e51abd94" width="550">    
  
   </div>
   <br>
